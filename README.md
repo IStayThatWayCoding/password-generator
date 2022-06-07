@@ -11,7 +11,7 @@ Creates passwords with the following options:
 - Option to save the password to a .txt file
 
 
-#Usage of the program
+## Usage of the program
 
 Use the following command to install all dependencies
 ```
