@@ -9,6 +9,7 @@ Creates passwords with the following options:
 - Customize the length of the password
 - Decide whether you want symbols/numbers or not 
 - Option to save the password to a .txt file
+- Has no way of sharing your passwords outside of your local machine!
 
 
 ## Usage of the program
