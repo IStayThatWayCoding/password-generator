@@ -1,6 +1,6 @@
 # IStay Password Generator
 
-This is an applications using NODE.JS to randomly generate passwords with tons of options. 
+This is an applications using NODE.JS to randomly generate passwords with tons of options to choose from!
 
 ## What it does
 
