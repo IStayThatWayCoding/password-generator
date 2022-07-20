@@ -6,7 +6,7 @@
 [![Library](https://img.shields.io/badge/library-discord.js-5865f2?style=for-the-badge)](https://discord.js.org/#/)
 
 
-This is an applications using NODE.JS to randomly generate passwords with tons of options to choose from!
+This is an application using NODE.JS to randomly generate passwords with tons of options to choose from!
 
 ## What it does
 
