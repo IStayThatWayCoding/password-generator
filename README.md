@@ -68,4 +68,4 @@ DM istay#5154 on discord for help, more ways coming soon.
 - Full discord support
 
 # License
-IStay's Utilities is licensed under the **[GPL-3.0 License](./LICENSE)**
+IStay Password Generator is licensed under the **[GPL-3.0 License](./LICENSE)**
